@@ -1,1 +1,1 @@
-# Documentation and analysis is included in the notebook
+# Documentation and analysis are included in the notebook
